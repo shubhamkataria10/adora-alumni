@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env/
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+pyvenv.cfg
+
+# Firebase secret file
+serviceAccountKey.json
+
+# System files
+.DS_Store

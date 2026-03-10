@@ -1,0 +1,6 @@
+# Firebase Configuration
+FIREBASE_API_KEY=your-api-key-here
+FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
+FIREBASE_DATABASE_URL=https://your-project.firebaseio.com
+FIREBASE_STORAGE_BUCKET=your-project.appspot.com
+FIREBASE_SERVICE_ACCOUNT_PATH=path/to/serviceAccountKey.json

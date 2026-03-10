@@ -1,0 +1,5 @@
+streamlit==1.28.1
+firebase-admin==6.2.0
+pyrebase4==4.7.1
+python-dotenv==1.0.0
+streamlit-authenticator==0.2.3
